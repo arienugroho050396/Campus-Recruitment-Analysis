@@ -31,7 +31,7 @@ This data set consists of Placement data of students in a XYZ campus. It include
 - Past work experience doesn't influence much on your masters final placements
 - There are no gender discrimination while hiring, but higher packages were given to male
 - Academic percentages have no relation towards salary package.
-- 
+
 ## [Click Here  for Visualize and Analyze](https://arienugroho050396.github.io/project11.html) :thumbsup: :thumbsup: :thumbsup:
 <p align="center">
   <img width="460" height="300" src="https://www.icegif.com/wp-content/uploads/icegif-1436.gif">
