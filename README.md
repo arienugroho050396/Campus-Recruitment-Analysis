@@ -1,4 +1,4 @@
-# Campus-Recruitment-Analysis
+# Campus-Recruitment-Analysis 
 [*here you can download the cheatsheet*](https://www.kaggle.com/benroshan/factors-affecting-campus-placement) 
 
 ## Introduction 
@@ -21,6 +21,8 @@ This data set consists of Placement data of students in a XYZ campus. It include
 - **mba_p** — MBA Percentage
 - **status** — Placed or not
 - **salary** — Salary offered
+
+
 
 ## Step Inside The Project'
 - **Exploratory Data Analysis**
