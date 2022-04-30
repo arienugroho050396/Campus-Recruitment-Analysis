@@ -37,7 +37,7 @@ This data set consists of Placement data of students in a XYZ campus. It include
 
 ## [Click Here  for Visualize and Analyze](https://arienugroho050396.github.io/project11.html) :thumbsup: :thumbsup: :thumbsup:
 <p align="center">
-  <img width="460" height="300" src="https://www.icegif.com/wp-content/uploads/icegif-1436.gif">
+  <img width="300" height="300" src="https://www.icegif.com/wp-content/uploads/icegif-1436.gif">
 </p>
 
  
