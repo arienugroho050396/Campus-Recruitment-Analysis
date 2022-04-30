@@ -8,21 +8,22 @@ This data set consists of Placement data of students in a XYZ campus. It include
 - Language : Python (filetype: *.ipynb*)
 
 ## Data Field
-- **sl_no** — Serial Number
-- **gender** — Gender- Male='M',Female='F'
-- **ssc_p** — Secondary Education percentage- 10th Grade
-- **ssc_b** — Board of Education- Central/ Others
-- **hsc_b** — Higher Secondary Education percentage- 12th Grade
-- **hsc_s** — Specialization in Higher Secondary Education
-- **degree_p** — Degree Percentage
-- **degree_t** — Under Graduation(Degree type)- Field of degree education
-- **workex** — Work Experience
-- **etest_p** — Entrance Test Percentage
-- **mba_p** — MBA Percentage
-- **status** — Placed or not
-- **salary** — Salary offered
 
-
+| Variable Name | Description |
+| --- | --- |
+| `sl_no` | Serial Number |
+| `gender` | Gender- Male='M',Female='F' |
+| `ssc_p` | Secondary Education percentage- 10th Grade |
+| `ssc_b` | Board of Education- Central/ Others |
+| `hsc_b` | Higher Secondary Education percentage- 12th Grade |
+| `hsc_s` | Specialization in Higher Secondary Education |
+| `degree_p` | Degree Percentage |
+| `degree_t` | Under Graduation(Degree type)- Field of degree education |
+| `workex` | Work Experience |
+| `etest_p` | Entrance Test Percentage |
+| `mba_p` | MBA Percentage |
+| `status` | Placed or not |
+| `salary` | Salary offered | 
 
 ## Step Inside The Project'
 - **Exploratory Data Analysis**
